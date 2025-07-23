@@ -19,6 +19,7 @@
 - 8,000 장의 이미지로 모델 학습과 자체 평가를 진행함
 - 3,000 장의 이미지는 정답 파일(객체 위치 정보)이 제공되지 않음
 - 객체 위치 정보 파일(.json) 속성
+
   <img width="500" height="212" alt="image" src="https://github.com/user-attachments/assets/e8678848-f806-4689-a236-fb5a6ad662ff" />
 
 <br>
