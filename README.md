@@ -13,7 +13,7 @@
 <Br>
 
 ## 사용 데이터
-- 주최측에서 제공된 ['빅신호등 교차로 공개데이터셋'](https://drive.google.com/drive/folders/1M-h3gC3zlh-ouqTvU_44FY_p22i7qXXI?usp=sharing)(4.02GB)
+- 주최측에서 제공된 ['공간데이터마켓 자율주행 도로인프라 데이터'](https://drive.google.com/drive/folders/1M-h3gC3zlh-ouqTvU_44FY_p22i7qXXI?usp=sharing)(4.02GB)
 - 1920x1200 크기 신호등 교차로 이미지 1만 장과 8,000 장의 학습 이미지에 대한 객체 8종의 위치 정보 파일(train.json) 1개가 제공됨
   - 학습 데이터 세트 : 8,000 images 
   - 테스트 데이터 세트 : 3,000 images
