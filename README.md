@@ -14,7 +14,7 @@
 
 ## 사용 데이터
 - 주최측에서 제공된 ['공간데이터마켓 자율주행 도로인프라 데이터'](https://drive.google.com/drive/folders/1M-h3gC3zlh-ouqTvU_44FY_p22i7qXXI?usp=sharing)(4.0GB)
-  - GitHub의 코드는 [구글 드라이브]()에 저장된 데이터를 사용함
+  - GitHub의 코드는 [구글 드라이브](https://drive.google.com/file/d/1V_gli7OmBji3p9X1z23ipHjH_9-fqxw6/view?usp=sharing)에 저장된 데이터를 사용함
   - 이미지는 동일하지만 라벨 표기가 옳바르게 되어 있어서 연속된 이미지로 보면 실시간으로 객체가 움지이는 것을 확인할 수 있음 
 - 1920x1200 크기 신호등 교차로 이미지 1만 장과 8,000 장의 학습 이미지에 대한 객체 8종의 위치 정보 파일(train.json) 1개가 제공됨
   - 학습 데이터 세트 : 8,000 images 
