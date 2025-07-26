@@ -72,6 +72,22 @@
   - 파일은 txt 파일 형식으로 이미지 파일명과 동일함 (파일 확장자 제외)
   - 편의를 위해 해당 txt 파일을 yolo format txt 파일이라 하겠음 <br><br>
 
+  <p align="center">
+  🚀 YOLO 형식 객체 위치 정보 🚀
+  </p>
+  <p akkugb-"cnter">
+  [객체 라벨, 객체 중심 좌표(x,y), 객체 가로길이(w), 객체 세로길이(h)]
+  </p>
+  <p align="center">
+  객체 라벨은 0 부터 시작하는 정수이며 위치 정보는 0 ~ 1 사이의 값을 갖음
+  </p>
+  <p align="center">
+  파일은 txt 파일 형식으로 이미지 파일명과 동일함 (파일 확장자 제외)
+  </p>
+  <p align="center">
+  편의를 위해 해당 txt 파일을 yolo format txt 파일이라 하겠음
+  </p>
+
   #### 2-2. 변환 과정
   - 우리가 사용하는 데이터에서 객체 위치 정보는 Bounding Box의 좌측 상단 좌표(x_min, y_min), 우측 하단 좌표(x_max, y_max)로 제공됨
 
