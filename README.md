@@ -38,7 +38,7 @@
 - <ins>*data_road_intersection/labels_json*</ins> 폴더에 각각에 이미지에 대한 json 파일 형식으로 저장함
 - 이미지 별 객체 위치 정보 파일(.json) 예시
 <p align="center">
-<img width="306" height="229" alt="image" src="https://github.com/user-attachments/assets/37583e79-4b55-4b34-ae4a-2c4190e3e1c8" />
+<img width="597" height="325" alt="image" src="https://github.com/user-attachments/assets/06e7ba24-aa2c-4411-b1e4-2a146c82ea54" />
 </p>
 
 ### 2. 
