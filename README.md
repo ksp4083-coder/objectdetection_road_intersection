@@ -19,11 +19,11 @@
 - 아래와 같은 데이터셋 구조를 만들고 yaml 파일을 생성해서 모델이 객체의 특성을 학습하고 새로운 이미지 데이터셋에서 객체 탐지를 수행할 수 있도록 함 <br>
 
 <p align="center">
-<img width="181" height="312" alt="image" src="https://github.com/user-attachments/assets/aef1c6c0-2445-4534-bfc7-e16f65fd6178" />
+<img width="90" height="156" alt="image" src="https://github.com/user-attachments/assets/aef1c6c0-2445-4534-bfc7-e16f65fd6178" />
 </p> <br>
 <p align="center">
 [yaml 파일 예시]
-</p> <br>
+</p>
 <p align="center">
 <img width="428" height="174" alt="image" src="https://github.com/user-attachments/assets/51f7d72c-9bc6-4704-bff7-2f78030d20a3" />
 </p>
