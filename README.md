@@ -69,7 +69,7 @@
   <p align="center">
   🚀 YOLO 형식 객체 위치 정보 🚀
   </p>
-  <p align="cnter">
+  <p align="center">
   [객체 라벨, 객체 중심 좌표(x,y), 객체 가로길이(w), 객체 세로길이(h)]
   </p>
   <p align="center">
