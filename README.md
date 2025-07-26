@@ -40,7 +40,7 @@
   
   <p align="center">
   <img width="597" height="325" alt="image" src="https://github.com/user-attachments/assets/06e7ba24-aa2c-4411-b1e4-2a146c82ea54" />
-  </p>
+  </p><br><br>
 
   #### 정답지가 제공된 객체 수 확인
   - 정답지는 객체 위치 정보를 뜻하며 모델 학습과 검증에 활용할 수 있는 객체 수를 확인함
