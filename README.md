@@ -18,10 +18,13 @@
 - 모델이 객체의 특성을 학습하고 새로운 이미지에서 객체 탐지를 수행하기 위해 객체 위치 정보를 모델에게 알려주어야 함
 - 아래와 같은 데이터셋 구조를 만들고 yaml 파일을 생성해서 모델이 객체의 특성을 학습하고 새로운 이미지 데이터셋에서 객체 탐지를 수행할 수 있도록 함 <br>
 <p align="center">
+[데이터셋 구조]
+</p>
+<p align="center">
 <img width="135" height="234" alt="image" src="https://github.com/user-attachments/assets/aef1c6c0-2445-4534-bfc7-e16f65fd6178" />
 </p>
 <p align="center">
-yaml 파일 예시
+[yaml 파일 예시]
 </p>
 <p align="center">
 <img width="642" height="261" alt="image" src="https://github.com/user-attachments/assets/51f7d72c-9bc6-4704-bff7-2f78030d20a3" />
