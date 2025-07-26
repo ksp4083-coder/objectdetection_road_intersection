@@ -14,14 +14,14 @@
 
 ## YOLO 객체 탐지 모델
 - YOLO 객체 탐지 모델은 직사각형으로 탐지한 객체의 위치를 나타냄 (해당 직사각형을 Bounding Box, 약자로 BBox라고 함)
-- YOLO 모델을 학습시키기 위해 아래와 같은 데이터셋 구조를 만들고 yaml 파일을 생성해야 함 <br>
+- YOLO 모델을 학습시키기 위해 아래와 같은 데이터셋 구조를 만들고 yaml 파일을 생성해야 함 <br><br>
 <p align="center">
 [데이터셋 구조]
 </p>
 <p align="center">
 <img width="135" height="234" alt="image" src="https://github.com/user-attachments/assets/aef1c6c0-2445-4534-bfc7-e16f65fd6178" />
 </p>
-<p align="center">
+<p align="center"> <br>
 [yaml 파일 예시]
 </p>
 <p align="center">
