@@ -19,13 +19,15 @@
 - 아래와 같은 데이터셋 구조를 만들고 yaml 파일을 생성해서 모델이 객체의 특성을 학습하고 새로운 이미지 데이터셋에서 객체 탐지를 수행할 수 있도록 함 <br>
 
 - 데이터셋 구조
-  - 데이터 폴더
-    - train
-      - images
-      - labels
-    - val
-      - images
-      - labels
+  - train
+    - images
+    - labels
+  - val
+    - images
+    - labels
+  - test
+    - images
+    - labels 
   
   - YOLO는 딥러닝 기반 모델로 모델을 학습하는 동시에 검증을 수행함
   - 검증 주기는 전체 데이터셋을 한 번 학습할 때 마다 검증을 수행 (1 epoch 주기)
