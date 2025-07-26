@@ -42,9 +42,8 @@
   <img width="597" height="325" alt="image" src="https://github.com/user-attachments/assets/06e7ba24-aa2c-4411-b1e4-2a146c82ea54" />
   </p><br>
 
-  **1-1. 정답지가 제공된 객체 수 확인**
   #### 1-1. 정답지가 제공된 객체 수 확인
-  - 정답지는 객체 위치 정보 이며 모델 학습과 검증에 사용할 수 있는 객체 수를 확인함
+  - 정답지는 객체 위치 정보를 의미하며 모델 학습과 검증에 사용할 수 있는 객체 수를 확인함
   - <ins>*data_road_intersection/labels_json*</ins> 폴더 내 모든 json 파일을 하나씩 읽고, json 파일 내부 annotations 변수의 lbl_nm(객체 이름)을 기준으로 개수를 셈 <br>
 
     | class | count |                                      
