@@ -42,20 +42,20 @@
   <img width="597" height="325" alt="image" src="https://github.com/user-attachments/assets/06e7ba24-aa2c-4411-b1e4-2a146c82ea54" />
   </p>
 
-  #### 정답지가 제공된 객체 수 확인
-  - 정답지는 객체 위치 정보를 뜻하며 모델 학습과 검증에 활용할 수 있는 객체 수를 확인함
-  - <ins>*data_road_intersection/labels_json*</ins> 폴더 내 모든 json 파일을 하나씩 읽어서 annotations 변수 안에 있는 lbl_nm(객체 이름)을 추출하고 객체 이름을 기준으로 개수를 셈
-
-  | class | count |                                      
-  |:-----|:-----:|
-  | car | 77,368 |
-  | sign | 21001 |
-  | human | 9734 |
-  | truck | 5159 |
-  | bus | 4662 |
-  | taxi | 2651 |
-  | motorcycle | 1609 |
-  | special_vehicles | 967 |
+    #### 정답지가 제공된 객체 수 확인
+    - 정답지는 객체 위치 정보를 뜻하며 모델 학습과 검증에 활용할 수 있는 객체 수를 확인함
+    - <ins>*data_road_intersection/labels_json*</ins> 폴더 내 모든 json 파일을 하나씩 읽어서 annotations 변수 안에 있는 lbl_nm(객체 이름)을 추출하고 객체 이름을 기준으로 개수를 셈
+    <br>
+    | class | count |                                      
+    |:-----|:-----:|
+    | car | 77,368 |
+    | sign | 21001 |
+    | human | 9734 |
+    | truck | 5159 |
+    | bus | 4662 |
+    | taxi | 2651 |
+    | motorcycle | 1609 |
+    | special_vehicles | 967 |
 
 <br>
 
