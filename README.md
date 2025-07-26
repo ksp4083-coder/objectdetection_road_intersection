@@ -62,7 +62,7 @@
 
 ### 2. 객체 위치 정보 정규화
 - 객체 위치 정보 정규화는 YOLO 객체 탐지 모델을 학습시키기 위해 YOLO 형식 객체 위치 정보 파일을 생성하는 과정임
-
+<p align="center">
 🚀 YOLO 형식 객체 위치 정보 파일 (yolo format txt 파일) 🚀
 </p>
 <p align="center">
