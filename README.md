@@ -36,11 +36,11 @@
 ### 1. 이미지 & 객체 위치 정보 추출
 - YOLO 모델을 학습하기 위해 train.json 파일에서 이미지 7,000 장에 대한 이미지 정보와 객체 위치 정보를 추출하고,
 - <ins>*data_road_intersection/labels_json*</ins> 폴더에 각각에 이미지에 대한 json 파일 형식으로 저장함
-- 이미지 별 객체 위치 정보 파일(.json) 예시
+- 이미지 별 객체 위치 정보 파일(.json) 예시 <br>
   
   <p align="center">
   <img width="597" height="325" alt="image" src="https://github.com/user-attachments/assets/06e7ba24-aa2c-4411-b1e4-2a146c82ea54" />
-  </p><br><br>
+  </p><br>
 
   #### 정답지가 제공된 객체 수 확인
   - 정답지는 객체 위치 정보를 뜻하며 모델 학습과 검증에 활용할 수 있는 객체 수를 확인함
