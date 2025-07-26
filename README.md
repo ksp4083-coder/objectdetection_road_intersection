@@ -18,8 +18,9 @@
 - 모델이 객체의 특성을 학습하고 새로운 이미지에서 객체 탐지를 수행하기 위해 객체 위치 정보를 모델에게 알려주어야 하는데
 - YOLO의 경우 YOLO 형식 객체 위치 정보 파일의 경로를 yaml 파일에 지정해서 모델이 객체의 특성을 학습할 수 있도록 함
 - yaml 파일 예시 <br>
-<img width="857" height="348" alt="image" src="https://github.com/user-attachments/assets/51f7d72c-9bc6-4704-bff7-2f78030d20a3" />
-
+<p align="center">
+<img width="428" height="174" alt="image" src="https://github.com/user-attachments/assets/51f7d72c-9bc6-4704-bff7-2f78030d20a3" />
+</p>
 
   
 
