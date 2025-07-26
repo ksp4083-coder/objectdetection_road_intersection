@@ -12,6 +12,16 @@
 
 <Br>
 
+## YOLO 객체 탐지 모델
+- YOLO 객체 탐지 모델은 직사각형으로 탐지한 객체의 위치를 나타냄
+- 해당 직사각형을 Bounding Box, 약자로 BBox라고 함
+- 모델이 객체의 특성을 학습하고 새로운 이미지에서 객체 탐지를 수행하기 위해 객체 위치 정보를 모델에게 알려주어야 하는데
+- YOLO의 경우 YOLO 형식 객체 위치 정보 파일의 경로를 yaml 파일에 지정해서 모델이 객체의 특성을 학습할 수 있도록 함 <br><br>
+- yaml 파일 예시 <br>
+
+
+  
+
 ## 사용 데이터
 - 주최측에서 제공된 ['공간데이터마켓 자율주행 도로인프라 데이터'](https://drive.google.com/drive/folders/1M-h3gC3zlh-ouqTvU_44FY_p22i7qXXI?usp=sharing)(4.0GB)
   - GitHub의 코드는 [구글 드라이브](https://drive.google.com/file/d/1V_gli7OmBji3p9X1z23ipHjH_9-fqxw6/view?usp=sharing)에 저장된 데이터를 사용함
