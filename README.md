@@ -33,9 +33,9 @@
 <br>
 
 ## 데이터 전처리
-### 1. 이미지 & 객체 위치 정보 추출
-- YOLO 모델을 학습하기 위해 train.json 파일에서 이미지 7,000 장에 대한 이미지 정보와 객체 위치 정보를 추출하고,
-- <ins>*data_road_intersection/labels_json*</ins> 폴더에 각각에 이미지에 대한 json 파일 형식으로 저장함
+### 1. 7,000개의 객체 위치 정보 파일(.json) 생성
+- YOLO 모델을 학습하기 위해 train.json 파일에서 이미지 7,000 장에 대한 이미지 정보와 객체 위치 정보를 담고 있는 json 파일 7,000개를 생성함
+- 생성한 json 파일은 <ins>*data_road_intersection/labels_json*</ins> 폴더에 저장함
 - 이미지 별 객체 위치 정보 파일(.json) 예시 <br>
   
   <p align="center">
