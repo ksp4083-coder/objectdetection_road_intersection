@@ -21,10 +21,10 @@
 <img width="135" height="234" alt="image" src="https://github.com/user-attachments/assets/aef1c6c0-2445-4534-bfc7-e16f65fd6178" />
 </p>
 <p align="center">
-[yaml 파일 예시]
+yaml 파일 예시
 </p>
 <p align="center">
-<img width="428" height="174" alt="image" src="https://github.com/user-attachments/assets/51f7d72c-9bc6-4704-bff7-2f78030d20a3" />
+<img width="642" height="261" alt="image" src="https://github.com/user-attachments/assets/51f7d72c-9bc6-4704-bff7-2f78030d20a3" />
 </p>
 
   
